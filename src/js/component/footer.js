@@ -7,7 +7,7 @@ let Footer = () => {
 			<footer className="container-fluid bg-dark align-items-center">
 				<div className="row my-auto h-100">
 					<p className="text-center text-light my-auto">
-						© 2021 Company, Inc
+						Nacho Casanova © 2022 4GeeksAcademy
 					</p>
 				</div>
 			</footer>
