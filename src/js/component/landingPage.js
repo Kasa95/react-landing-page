@@ -6,10 +6,15 @@ let LandingPage = () => {
 		<>
 			<div className="container">
 				<div className="jumbotron my-3">
-					<h1 className="display-4">Hello, world!</h1>
+					<h1 className="display-3">A warm welcome!</h1>
 					<p>
-						It uses utility classes for typography and spacing to
-						space content out within the larger container.
+						Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+						Morbi eget enim vehicula, rutrum augue at, lacinia
+						risus. Nunc in dapibus leo. Etiam ultrices pellentesque
+						elit ac convallis. Sed ut lectus mattis, consequat risus
+						id, fermentum lorem. Vestibulum sit amet dapibus mi, id
+						volutpat mi. Sed interdum fermentum facilisis. Sed quis
+						dignissim nibh. Mauris at ultricies lectus.
 					</p>
 					<p className="lead">
 						<a
@@ -22,7 +27,7 @@ let LandingPage = () => {
 				</div>
 			</div>
 			<div className="container">
-				<div class="row row-cols-1 row-cols-md-4 text-center">
+				<div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 text-center">
 					<Card />
 					<Card />
 					<Card />
